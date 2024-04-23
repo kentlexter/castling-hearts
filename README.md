@@ -3,7 +3,7 @@ Castling Hearts was initially developed by "Team C" as a submission for the DEVC
 The hackathon required entries to showcase Iloilo's rich cultural heritage.
 
 **Notes:**
-- Forking the original repo for archival purposes.
+- Forking the [original repo](https://github.com/gcsiscar/dev-gauntlet-team-c) for archival purposes.
 - Art assets were AI generated using [Counterfeit](https://huggingface.co/gsdf/Counterfeit-V2.5)
 - Chess engine implementation was taken from [RuolinZheng08/renpy-chess](https://github.com/RuolinZheng08/renpy-chess)
 
