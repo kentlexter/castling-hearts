@@ -2,10 +2,14 @@
 Castling Hearts was initially developed by "Team C" as a submission for the DEVCON Iloilo game development hackathon, held on November 11-12, 2023.
 The hackathon required entries to showcase Iloilo's rich cultural heritage.
 
-Note: Forking the original repo for archival purposes.
- 
-[Pitch Slides](https://docs.google.com/presentation/d/1te4FwlFS4HbT_-0oiMfFDHeknSCRzlY0/edit?usp=sharing&ouid=117803998659852147765&rtpof=true&sd=true)  
-[Release Demo](https://github.com/gcsiscar/dev-gauntlet-team-c/releases)  
+Notes:
+- Forking the original repo for archival purposes.
+- Art assets were AI generated using [Counterfeit](https://huggingface.co/gsdf/Counterfeit-V2.5)
+- Chess engine implementation was taken from [RuolinZheng08/renpy-chess](https://github.com/RuolinZheng08/renpy-chess)
+
+Resources:
+- 📊 [Pitch Slides](https://docs.google.com/presentation/d/1te4FwlFS4HbT_-0oiMfFDHeknSCRzlY0/edit?usp=sharing&ouid=117803998659852147765&rtpof=true&sd=true)  
+- 🎮 [Release Demo](https://github.com/gcsiscar/dev-gauntlet-team-c/releases)  
 
 Castling Hearts aims to be visual novel game that seamlessly blends the rich cultural heritage of Iloilo with the strategic depth of chess. Developed by "Team C" as a submission for the DEVCON Iloilo game development hackathon, this game aims to showcase Iloilo's charm while engaging players in a unique and immersive experience.
 
