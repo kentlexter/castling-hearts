@@ -14,7 +14,9 @@ The hackathon required entries to showcase Iloilo's rich cultural heritage.
 Castling Hearts aims to be visual novel game that seamlessly blends the rich cultural heritage of Iloilo with the strategic depth of chess. Developed by "Team C" as a submission for the DEVCON Iloilo game development hackathon, this game aims to showcase Iloilo's charm while engaging players in a unique and immersive experience.
 
 ## Screenshots
-
+![Image 1](https://i.imgur.com/GiZ53eb.png)
+![Image 2](https://i.imgur.com/bHpDhoa.jpeg) 
+![Image 3](https://i.imgur.com/cJ23JsG.png)
 
 ## Introduction
 
